@@ -1,2 +1,2 @@
 # STGP
-#### Repo to be used for HTML / CSS / JS and Python exercises
+#### Repo to be used for HTML / CSS and Python exercises
